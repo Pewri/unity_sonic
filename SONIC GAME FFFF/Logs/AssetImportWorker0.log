@@ -425,3 +425,48 @@ Received Import Request.
 Start importing Assets/Bolt 2D DinoRun VE1/Sprites/UI Over.png using Guid(b73265accab188e409461260602e7e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b81d3ef8d41f310491aafd1582b1fde') in 0.022697 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 207.779791 seconds.
+  path: Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Layer01.png
+  artifactKey: Guid(8e6fdc9b05d281f4aa0fafcb0e8fc814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Layer01.png using Guid(8e6fdc9b05d281f4aa0fafcb0e8fc814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc8e8e109fec158813ebd4a50f7dfb83') in 0.022560 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Layer03.png
+  artifactKey: Guid(2ecdcbaec7af1314fbbedebbcdbccca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Layer03.png using Guid(2ecdcbaec7af1314fbbedebbcdbccca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7960242cd53eb72fbd15f0dc840596bf') in 0.030603 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Layer04C.png
+  artifactKey: Guid(45a8d39830d8d7b4294cd8d90190f524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Layer04C.png using Guid(45a8d39830d8d7b4294cd8d90190f524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cfa44e46fe14d9d1f25309cfa3ffb9a') in 0.032063 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Trees_and_etc.png
+  artifactKey: Guid(f2d56a6b10165fd46ae8390c6d926047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Trees_and_etc.png using Guid(f2d56a6b10165fd46ae8390c6d926047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fd0888fc0ac3ba6dcc53ea61b4be03b') in 0.112332 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 49
+========================================================================
+Received Import Request.
+  Time since last request: 37.416471 seconds.
+  path: Assets/karsiori/Pixel Art Bush Pack/Bush 1/Bush 1_TEAL.png
+  artifactKey: Guid(4ec9bd95f4a9f2744aff05b5a200a8c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karsiori/Pixel Art Bush Pack/Bush 1/Bush 1_TEAL.png using Guid(4ec9bd95f4a9f2744aff05b5a200a8c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c4650e58ab36dd0bf46b845c8a7174') in 0.027504 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: ќпераци€ ввода/вывода была прервана из-за завершени€ потока команд или по запросу приложени€.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

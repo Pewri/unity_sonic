@@ -310,3 +310,88 @@ Received Import Request.
 Start importing Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts/ReadmeVE1.cs using Guid(2517e612f75eea3489fd206ff43605ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fed43ce050081e4ee36d76a537cb4c21') in 0.000441 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 200.599926 seconds.
+  path: Assets/Free 1 Bit Forest
+  artifactKey: Guid(1dbeea0a931c23044bdd0ffd8ef9e9ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free 1 Bit Forest using Guid(1dbeea0a931c23044bdd0ffd8ef9e9ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10199dcdf5335396254430c9560f1080') in 0.001112 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.162809 seconds.
+  path: Assets/Free 1 Bit Forest/Free 1 Bit Forest
+  artifactKey: Guid(933fb4374b90bc94bb6e8ca1cc56bba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free 1 Bit Forest/Free 1 Bit Forest using Guid(933fb4374b90bc94bb6e8ca1cc56bba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed6bce1b1b73ef4db22a05fc0238c1c') in 0.000862 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.223172 seconds.
+  path: Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG
+  artifactKey: Guid(7e484dd697fcb3640a58b99131a4dafb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG using Guid(7e484dd697fcb3640a58b99131a4dafb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049ef77fbed44b9895b28935b4733e64') in 0.001067 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.067412 seconds.
+  path: Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Layer0.png
+  artifactKey: Guid(e2e7c1efb6dd55a4fb5e9b95db15dba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Layer0.png using Guid(e2e7c1efb6dd55a4fb5e9b95db15dba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e0e583158a2f2a4ed0484533a09fd9d') in 0.019985 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Layer04.png
+  artifactKey: Guid(47fc74c91368e524ea613a7a5cb15c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Layer04.png using Guid(47fc74c91368e524ea613a7a5cb15c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5673d79f24833ed687c9df58c548262') in 0.024732 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Tileset.png
+  artifactKey: Guid(20fc8adce30c3b44cbcd1442f0a77793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Tileset.png using Guid(20fc8adce30c3b44cbcd1442f0a77793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e943501dce436707283aa76755fe6b35') in 0.025542 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Layer4B.png
+  artifactKey: Guid(e0358a9d17bfe1d4ea7cbfe3a2674a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Layer4B.png using Guid(e0358a9d17bfe1d4ea7cbfe3a2674a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec9227fd41415683573212071e7ae30') in 0.027877 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Layer02.png
+  artifactKey: Guid(d6ede0e94adfae8418c2b4984f084c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free 1 Bit Forest/Free 1 Bit Forest/PNG/Layer02.png using Guid(d6ede0e94adfae8418c2b4984f084c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cd3a221939e2c7b91cfc76e90f05c3e') in 0.027814 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 37.470428 seconds.
+  path: Assets/karsiori/Pixel Art Bush Pack/Bush 1/Bush 1_RED.png
+  artifactKey: Guid(2d918256ab38dc64fa8ce25f9b199e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karsiori/Pixel Art Bush Pack/Bush 1/Bush 1_RED.png using Guid(2d918256ab38dc64fa8ce25f9b199e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e81f425781aaddfe20be4d7b010d9b8') in 0.028949 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/karsiori/Pixel Art Bush Pack/Bush 1/Bush 1_YELLOWISH GREEN.png
+  artifactKey: Guid(8405ca7564e07844db41ae1a40709012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karsiori/Pixel Art Bush Pack/Bush 1/Bush 1_YELLOWISH GREEN.png using Guid(8405ca7564e07844db41ae1a40709012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398e87dd9469472229ecee423672d421') in 0.027005 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: ќпераци€ ввода/вывода была прервана из-за завершени€ потока команд или по запросу приложени€.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
