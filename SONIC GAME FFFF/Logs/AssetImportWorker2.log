@@ -1,0 +1,312 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.16f1 (d2c21f0ef2f1) revision 13812255'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ru' Physical Memory: 15742 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/user/Documents/GitHub/unity_sonic/SONIC GAME FFFF
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+54983
+Successfully changed project path to: C:/Users/user/Documents/GitHub/unity_sonic/SONIC GAME FFFF
+C:/Users/user/Documents/GitHub/unity_sonic/SONIC GAME FFFF
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [5248] Host "[IP] 192.168.102.2 [Port] 0 [Flags] 2 [Guid] 775856337 [EditorId] 775856337 [Version] 1048832 [Id] WindowsEditor(7,PC-m00821) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [5248] Host "[IP] 192.168.102.2 [Port] 0 [Flags] 2 [Guid] 775856337 [EditorId] 775856337 [Version] 1048832 [Id] WindowsEditor(7,PC-m00821) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
+Refreshing native plugins compatible for Editor in 9.48 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.16f1 (d2c21f0ef2f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/Documents/GitHub/unity_sonic/SONIC GAME FFFF/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1638)
+    Vendor:   ATI
+    VRAM:     7871 MB
+    Driver:   31.0.12027.9001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56928
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006225 seconds.
+- Loaded All Assemblies, in  0.257 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.203 seconds
+Domain Reload Profiling: 459ms
+	BeginReloadAssembly (83ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (95ms)
+		LoadAssemblies (82ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (93ms)
+			TypeCache.Refresh (92ms)
+				TypeCache.ScanAssembly (83ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (203ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (161ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (111ms)
+			ProcessInitializeOnLoadMethodAttributes (36ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.579 seconds
+Refreshing native plugins compatible for Editor in 3.83 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.651 seconds
+Domain Reload Profiling: 1227ms
+	BeginReloadAssembly (115ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (17ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (396ms)
+		LoadAssemblies (274ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (191ms)
+			TypeCache.Refresh (156ms)
+				TypeCache.ScanAssembly (143ms)
+			ScanForSourceGeneratedMonoScriptInfo (25ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (651ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (491ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (92ms)
+			ProcessInitializeOnLoadAttributes (342ms)
+			ProcessInitializeOnLoadMethodAttributes (39ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 3.78 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7239 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 239 unused Assets / (13.5 MB). Loaded Objects now: 7570.
+Memory consumption went from 307.4 MB to 293.9 MB.
+Total: 5.796300 ms (FindLiveObjects: 0.437500 ms CreateObjectMapping: 0.416400 ms MarkObjects: 2.645300 ms  DeleteObjects: 2.296600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 4d1d7186bcbbfe361de5f0ad951e585c -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 792932.207054 seconds.
+  path: Assets/BigManJD/Platformer Tileset - Pixelart Grasslands/Enemy/EnemySheet.png
+  artifactKey: Guid(fc1d67a4622f38e4a97f5152c1977ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigManJD/Platformer Tileset - Pixelart Grasslands/Enemy/EnemySheet.png using Guid(fc1d67a4622f38e4a97f5152c1977ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e10ec07efd8aec208da3921d1126fd03') in 0.102277 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.933067 seconds.
+  path: Assets/BigManJD/Platformer Tileset - Pixelart Grasslands/Prefabs/Bush1.prefab
+  artifactKey: Guid(cc92fc30c0cc12843ace4dfba1b2a7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigManJD/Platformer Tileset - Pixelart Grasslands/Prefabs/Bush1.prefab using Guid(cc92fc30c0cc12843ace4dfba1b2a7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472b9e15f26d43ab9d8a3dacd93d14d3') in 0.040778 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/BigManJD/Platformer Tileset - Pixelart Grasslands/Prefabs/TreeStump.prefab
+  artifactKey: Guid(cce8f5d7e4ab0694abb8b541a6b26b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigManJD/Platformer Tileset - Pixelart Grasslands/Prefabs/TreeStump.prefab using Guid(cce8f5d7e4ab0694abb8b541a6b26b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a0e716be61961bf12f38e184c1884a7') in 0.013277 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/BigManJD/Platformer Tileset - Pixelart Grasslands/Prefabs/WoodenSign.prefab
+  artifactKey: Guid(3f0733b56e08e8c4a852b694cbbc24a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigManJD/Platformer Tileset - Pixelart Grasslands/Prefabs/WoodenSign.prefab using Guid(3f0733b56e08e8c4a852b694cbbc24a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c6f9f7beeb022ae8701aeb897995085') in 0.016686 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 1.747402 seconds.
+  path: Assets/BigManJD/Platformer Tileset - Pixelart Grasslands/Tile Palette/Platformer Palette.prefab
+  artifactKey: Guid(572c26a0233c5634d87e192be0336ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigManJD/Platformer Tileset - Pixelart Grasslands/Tile Palette/Platformer Palette.prefab using Guid(572c26a0233c5634d87e192be0336ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b3c7f86d3ec051901dd09ab913d9c38') in 3.049205 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 530
+========================================================================
+Received Import Request.
+  Time since last request: 24.598831 seconds.
+  path: Assets/fon i chel
+  artifactKey: Guid(e64ce41c516442f418911bf29dbdc521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/fon i chel using Guid(e64ce41c516442f418911bf29dbdc521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7402e198a3daf36d05b68003513c141') in 0.000895 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.823682 seconds.
+  path: Assets/Bolt 2D DinoRun VE1
+  artifactKey: Guid(7c5a006cf4324be468775dbf40692a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D DinoRun VE1 using Guid(7c5a006cf4324be468775dbf40692a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a830afe22ca46aa54c57bdce9672c323') in 0.000867 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.257500 seconds.
+  path: Assets/Bolt 2D DinoRun VE1/App Icon.png
+  artifactKey: Guid(16a4acc20b9be4541ae863b483cd3ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D DinoRun VE1/App Icon.png using Guid(16a4acc20b9be4541ae863b483cd3ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb4b4698a6a99f0f9432080ee0a1e34d') in 0.027130 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.417107 seconds.
+  path: Assets/Bolt 2D DinoRun VE1/Audio
+  artifactKey: Guid(b6b36a55907b02544a8e85ed46353374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D DinoRun VE1/Audio using Guid(b6b36a55907b02544a8e85ed46353374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '373a48a992faeccac86116c748619704') in 0.000754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.108257 seconds.
+  path: Assets/Bolt 2D DinoRun VE1/Audio/Button.wav
+  artifactKey: Guid(b20eff100831827498294d4bc57c9388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D DinoRun VE1/Audio/Button.wav using Guid(b20eff100831827498294d4bc57c9388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce35f49e414d4f4e2c9054aa45bcda7e') in 0.053708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.113062 seconds.
+  path: Assets/Bolt 2D DinoRun VE1/ReadMe/Icon.png
+  artifactKey: Guid(863eba89c3a1fe745b8aca9216f926b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D DinoRun VE1/ReadMe/Icon.png using Guid(863eba89c3a1fe745b8aca9216f926b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd28adba6e1e9a26a2a975b45a93e4a8a') in 0.024458 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.928774 seconds.
+  path: Assets/Bolt 2D DinoRun VE1/Sprites/Back A.png
+  artifactKey: Guid(73c3f17bbee267148a2f224712eecba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D DinoRun VE1/Sprites/Back A.png using Guid(73c3f17bbee267148a2f224712eecba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d81b9fb8dfdb04dfaaa890a945fb8e7') in 0.020109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Bolt 2D DinoRun VE1/Sprites/Cactus C.png
+  artifactKey: Guid(509cb56e68eb2404b902437d87eaab5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D DinoRun VE1/Sprites/Cactus C.png using Guid(509cb56e68eb2404b902437d87eaab5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5704d7096c4efa04d7c918f885ac33c') in 0.021827 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Bolt 2D DinoRun VE1/Sprites/Ground.png
+  artifactKey: Guid(55c38370a8cd6314a8626c513e426605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D DinoRun VE1/Sprites/Ground.png using Guid(55c38370a8cd6314a8626c513e426605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fea61e3c974bc871d33e4d4e0971a969') in 0.026520 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Bolt 2D DinoRun VE1/Sprites/Sky.png
+  artifactKey: Guid(686af9210bf8e3042a0ce5aae4d44e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D DinoRun VE1/Sprites/Sky.png using Guid(686af9210bf8e3042a0ce5aae4d44e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da162228de22b758d2909f1bbb5d218') in 0.022674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.304875 seconds.
+  path: Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts
+  artifactKey: Guid(e36810fed526cb44586863c25127acec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts using Guid(e36810fed526cb44586863c25127acec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ba1ad526d198ba687a4fac2115bf0f1') in 0.000983 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.329590 seconds.
+  path: Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts/ReadmeVE1.cs
+  artifactKey: Guid(2517e612f75eea3489fd206ff43605ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D DinoRun VE1/ReadMe/Scripts/ReadmeVE1.cs using Guid(2517e612f75eea3489fd206ff43605ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fed43ce050081e4ee36d76a537cb4c21') in 0.000441 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
